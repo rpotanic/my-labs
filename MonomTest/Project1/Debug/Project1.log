@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\labs\monomtest\project1\main.cpp(7): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Monom.cpp
+d:\labs\monomtest\project1\monom.cpp(120): warning C4018: '>': signed/unsigned mismatch
+d:\labs\monomtest\project1\monom.cpp(130): warning C4018: '<=': signed/unsigned mismatch
+d:\labs\monomtest\project1\monom.cpp(130): warning C4018: '>=': signed/unsigned mismatch
+d:\labs\monomtest\project1\monom.cpp(137): warning C4018: '<=': signed/unsigned mismatch
+d:\labs\monomtest\project1\monom.cpp(153): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\labs\monomtest\project1\monom.cpp(180): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Project1.vcxproj -> D:\Labs\MonomTest\Debug\Project1.exe

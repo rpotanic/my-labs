@@ -1,0 +1,8 @@
+﻿  Monom.cpp
+d:\labs\circlelist\circlelist\monom.cpp(127): warning C4018: '>': signed/unsigned mismatch
+d:\labs\circlelist\circlelist\monom.cpp(137): warning C4018: '<=': signed/unsigned mismatch
+d:\labs\circlelist\circlelist\monom.cpp(137): warning C4018: '>=': signed/unsigned mismatch
+d:\labs\circlelist\circlelist\monom.cpp(144): warning C4018: '<=': signed/unsigned mismatch
+d:\labs\circlelist\circlelist\monom.cpp(159): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\labs\circlelist\circlelist\monom.cpp(188): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  CircleList.vcxproj -> D:\Labs\CircleList\Debug\CircleList.exe
